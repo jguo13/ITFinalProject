@@ -20,3 +20,7 @@ The Asian-directed hate-term analysis yielded the following graph:
 (please note that the break in data from 2020-01-04 to 2020-04-24 are because that is where the archive data ends and when our webcrawler started) ![image](https://github.com/jguo13/ITFinalProject/blob/master/Asian-hateterm-frequency.png)
 
 Im the months leading up to the epidemic, the amount of posts containing hate-terms directed at Asians hovered around 50 posts/day. For the week of March 24 to April 2, the number of posts increased to around the 300-200 range, an increase of around 500%.
+
+When we ran the same analysis for African targeted hate-terms in 2014 (when the ebola epidemic was at its worst), we found a very similar trend. Our analysis yielded the following graph: ![image](https://github.com/jguo13/ITFinalProject/blob/master/African-hateterm-frequency.png)
+
+As can be seen, there is a similar spike in hate-based terms from around 100 in August of 2014 to spiking into well-over 300 posts a day containing hate-based terms derogatory towards Africans after the same time we saw the first case of ebola in NYC. 
