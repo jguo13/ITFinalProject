@@ -6,7 +6,7 @@ As two people of asian descent experiencing the global covid-19 pandemic in New 
 ## Data
 For our data, we wanted to analyze a social-media platform in order to gauge sentiment towards Asians, however most social media platforms we considered (facebook, twitter, instagram) both did not allow unrestricted access to their data and did not fully anonymize their users. As such we drew inspiration from past work like Vice's  [article](https://www.vice.com/en_us/article/d3nbzy/we-analyzed-more-than-1-million-comments-on-4chan-hate-speech-there-has-spiked-by-40-since-2015), and focused our analysis on data from the image-board site 4chan, which allowed for anonymous users and unrestricted access to their data. 4chan also conveniently has an archive site, 4plebs, which archives posts from the /pol board (which stands for politically incorrect and which all our analysis is done off of).
 
-For data prior to 2019, we used this [data] (https://archive.org/details/4plebs-org-data-dump-2020-01) from archive.org
+For data prior to 2019, we used this [data](https://archive.org/details/4plebs-org-data-dump-2020-01) from archive.org
 For data after January 4, 2020, we created a web crawler also located in this repo under 4chan_crawler.py because unfortunately there had been no data dump yet of data post Jan 2020.
 
 ## Analysis
