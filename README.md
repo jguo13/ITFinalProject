@@ -24,3 +24,6 @@ Im the months leading up to the epidemic, the amount of posts containing hate-te
 When we ran the same analysis for African targeted hate-terms in 2014 (when the ebola epidemic was at its worst), we found a very similar trend. Our analysis yielded the following graph: ![image](https://github.com/jguo13/ITFinalProject/blob/master/African-hateterm-frequency.png)
 
 As can be seen, there is a similar spike in hate-based terms from around 100 in August of 2014 to spiking into well-over 300 posts a day containing hate-based terms derogatory towards Africans after the same time we saw the first case of ebola in NYC. 
+
+## Future work
+In order to strengthen our analysis, we would like to finely and manually comb through the posts that our programs classified as "containing hate-speech" to see if there is any additional data to be gleaned from these posts, as well as to rule out any confounding event besides the pandemic that could be causing the increase in hate-speech.
