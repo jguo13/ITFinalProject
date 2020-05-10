@@ -1,23 +1,38 @@
 # The Racial Backlash of Pandemics
 ### Yunkai Tang and Joyce Guo
 
-## File Overview
+## Repo Overview
 [4chan_api_crawler.py](https://github.com/jguo13/ITFinalProject/blob/master/4chan_api_crawler.py)
+<br>
 This script crawls the 4chan api for the pol board in a while loop, and records ever comment that contains a Asian or Chinese directed hatespeech, writing it into a csv called "crawled_data.csv"
 <br>
-[crawled_data.csv](https://github.com/jguo13/ITFinalProject/blob/master/crawled_data.csv) This is a csv of the data that was used for the graph "Posts containing Asian-directed Hate-Speech" below. It was started midday on April 23, 2020, and then stopped manually on May 10, 2020 midday. 
+[crawled_data.csv](https://github.com/jguo13/ITFinalProject/blob/master/crawled_data.csv) 
 <br>
-[hatebase_vocab_african.csv](https://github.com/jguo13/ITFinalProject/blob/master/hatebase_vocab_african.csv) This is a csv of all the hate-speech terms that have been classified as "African directed" by Hatebase.org
+This is a csv of the data that was used for the graph "Posts containing Asian-directed Hate-Speech" below. It was started midday on April 23, 2020, and then stopped manually on May 10, 2020 midday. 
 <br>
-[hatebase_vocab_africanamerican.csv](https://github.com/jguo13/ITFinalProject/blob/master/hatebase_vocab_africanamerican.csv) This is a csv of all the hate-speech terms that have been classified as "African America directed" by Hatebase.org
+[hatebase_vocab_african.csv](https://github.com/jguo13/ITFinalProject/blob/master/hatebase_vocab_african.csv) 
 <br>
-[hatebase_vocab_asian.csv](https://github.com/jguo13/ITFinalProject/blob/master/hatebase_vocab_asian.csv) This is a csv of all the hate-speech terms that have been classified as "Asian directed" by Hatebase.org
+This is a csv of all the hate-speech terms that have been classified as "African directed" by Hatebase.org
 <br>
-[hatebase_vocab_chinese.csv](https://github.com/jguo13/ITFinalProject/blob/master/hatebase_vocab_chinese.csv) This is a csv of all the hate-speech terms that have been classified as "Chinese directed" by Hatebase.org
+[hatebase_vocab_africanamerican.csv](https://github.com/jguo13/ITFinalProject/blob/master/hatebase_vocab_africanamerican.csv) 
 <br>
-[hatespeech_covid19_trend.ipynb](https://github.com/jguo13/ITFinalProject/blob/master/hatespeech_covid19_trend.ipynb) The python notebook that contains all the analysis that created the graph "Posts containing Asian-directed Hate-Speech" below
+This is a csv of all the hate-speech terms that have been classified as "African America directed" by Hatebase.org
 <br>
-[hatespeech_ebola_trend.ipynb](https://github.com/jguo13/ITFinalProject/blob/master/hatespeech_ebola_trend.ipynb) The python notebook that contains all the analysis that created the graph "Posts containing Asian-directed Hate-Speech" below
+[hatebase_vocab_asian.csv](https://github.com/jguo13/ITFinalProject/blob/master/hatebase_vocab_asian.csv) 
+<br>
+This is a csv of all the hate-speech terms that have been classified as "Asian directed" by Hatebase.org
+<br>
+[hatebase_vocab_chinese.csv](https://github.com/jguo13/ITFinalProject/blob/master/hatebase_vocab_chinese.csv) 
+<br>
+This is a csv of all the hate-speech terms that have been classified as "Chinese directed" by Hatebase.org
+<br>
+[hatespeech_covid19_trend.ipynb](https://github.com/jguo13/ITFinalProject/blob/master/hatespeech_covid19_trend.ipynb) 
+<br>
+The python notebook that contains all the analysis that created the graph "Posts containing Asian-directed Hate-Speech" below
+<br>
+[hatespeech_ebola_trend.ipynb](https://github.com/jguo13/ITFinalProject/blob/master/hatespeech_ebola_trend.ipynb) 
+<br>
+The python notebook that contains all the analysis that created the graph "Posts containing Asian-directed Hate-Speech" below
 
 ---------------------------------------
 ## Introduction
