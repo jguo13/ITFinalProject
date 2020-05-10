@@ -1,5 +1,10 @@
 # The Racial Backlash of Pandemics
 ### Yunkai Tang and Joyce Guo
+
+## File Overview
+[4chan_api_crawler.py](https://github.com/jguo13/ITFinalProject/blob/master/4chan_api_crawler.py)
+This script crawls the 4chan api for the pol board in a while loop, and records ever comment that contains a Asian or Chinese directed hatespeech, writing it into a csv called "crawled_data.csv"
+
 ---------------------------------------
 ## Introduction
 As two people of Asian descent experiencing the global COVID-19 pandemic in New York City, we felt we were constantly hearing stories from our fellow Asian classmates about hate-based incidents--the derogatory message left on a Columbia whiteboard, an angry side-comment of a passerby telling us to "go back," the suddenly cleared hole in subway space from neighbors scared to touch you. We wanted a way to document these stories and more importantly, we wanted a way to measure this very real racial backlash that seems to follow not only this pandemic, but a history of epidemics and diseases. In a time when we are being told to rely on data, we wanted to use that data to give these stories another dimension, to illustrate just how concrete and palpable the increase in racial tension is. 
