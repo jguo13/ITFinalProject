@@ -7,7 +7,7 @@ import time
 #define important variables
 
 board_name = 'pol'
-filename = '4chan_data.csv'
+filename = 'crawled_data.csv'
 chinese_hate_speech_filename = "hatebase_vocab_chinese.csv"
 asian_hate_speech_filename = "hatebase_vocab_asian.csv"
 
