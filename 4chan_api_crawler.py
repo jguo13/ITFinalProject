@@ -8,14 +8,15 @@ import time
 
 board_name = 'pol'
 filename = '4chan_data.csv'
-hate_speech_filename = "hatebase_vocab_chinese.csv"
+chinese_hate_speech_filename = "hatebase_vocab_chinese.csv"
+asian_hate_speech_filename = "hatebase_vocab_asian.csv"
 
 ##########DONOT EDIT BELOW##################################################################
 
 while True:
     try:
         df_chinese = pd.read_csv(hate_speech_filename)
-        df_asian = pd.read_csv(hate_speech_filename)
+        df_asian = pd.read_csv(asian_hate_speech_filename)
         list_id = []
         if os.path.isfile(filename):
             list_id = pd.read_csv(filename)["post_id"].to_list()
